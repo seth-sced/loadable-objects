@@ -1,6 +1,18 @@
 {
-  "campaigns" : [],
-  "scenarios" : [],
-  "investigators": [],
-  "extras" : []
+  "campaigns" : [
+    {"name":"The Night of the Zealot", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/campaigns/night_of_the_zealot.json", "replace":""},
+    {"name":"Return to the Night of the Zealot", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/return_to_notz.json", "replace":""},
+    {"name":"The Dunwich Legacy", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/dunwich_legacy.json", "replace":""},
+    {"name":"The Path to Carcosa", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/path_to_carcosa.json", "replace":""},
+  ],
+  "scenarios" : [
+    {"name":"", "url":"", "replace":""},
+  ],
+  "investigators": [
+    {"name":"Core Investigators", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/investigators/core_investigators.json", "replace":""},
+    {"name":"Fan Creation: Cartoon Funtime Investigators", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/fancreations/investigators_cartoon_funtime.json", "replace":""},
+  ],
+  "extras" : [
+    {"name":"Tarot Deck", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/extras/tarot_deck.json", "replace":null},
+  ]
 }
