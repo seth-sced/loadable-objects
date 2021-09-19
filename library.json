@@ -6,7 +6,7 @@
     {"name":"The Path to Carcosa", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/campaigns/path_to_carcosa.json", "replace":""}
   ],
   "scenarios" : [
-    {"name":"", "url":"", "replace":""}
+    {"name":"Carnevale of Horrors", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/scenarios/carnevale_of_horrors.json"}
   ],
   "investigators": [
     {"name":"Core Investigators", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/investigators/core_investigators.json", "replace":""},
