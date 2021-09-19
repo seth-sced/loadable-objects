@@ -1,9 +1,9 @@
 {
   "campaigns" : [
     {"name":"The Night of the Zealot", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/campaigns/night_of_the_zealot.json", "replace":""},
-    {"name":"Return to the Night of the Zealot", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/return_to_notz.json", "replace":""},
-    {"name":"The Dunwich Legacy", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/dunwich_legacy.json", "replace":""},
-    {"name":"The Path to Carcosa", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/path_to_carcosa.json", "replace":""}
+    {"name":"Return to the Night of the Zealot", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/campaigns/return_to_notz.json", "replace":""},
+    {"name":"The Dunwich Legacy", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/campaigns/dunwich_legacy.json", "replace":""},
+    {"name":"The Path to Carcosa", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/campaigns/path_to_carcosa.json", "replace":""}
   ],
   "scenarios" : [
     {"name":"", "url":"", "replace":""}
