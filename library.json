@@ -13,6 +13,7 @@
     {"name":"Fan Creation: Cartoon Funtime Investigators", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/fancreations/investigators_cartoon_funtime.json", "replace":""}
   ],
   "extras" : [
-    {"name":"Tarot Deck", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/extras/tarot_deck.json", "replace":null}
+    {"name":"Tarot Deck", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/extras/tarot_deck.json", "replace":null},
+    {"name":"tmp", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/extras/tmp.json", "replace":null}
   ]
 }
