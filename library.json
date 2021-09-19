@@ -15,5 +15,6 @@
   "extras" : [
     {"name":"Tarot Deck", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/extras/tarot_deck.json", "replace":null},
     {"name":"tmp", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/extras/tmp.json", "replace":null}
+    
   ]
 }
