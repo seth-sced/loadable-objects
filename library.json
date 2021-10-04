@@ -14,7 +14,7 @@
     {"name":"The Innsmouth Conspiracy", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/campaigns/innsmouth_conspiracy.json", "replace":"465aab"}
   ],
   "scenarios" : [
-    {"name":"Carnevale of Horrors", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/scenarios/carnevale_of_horrors.json"}
+    {"name":"Carnevale of Horrors", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/scenarios/carnevale_of_horrors.json", "replace":"23dd51"}
   ],
   "investigators": [
     {"name":"Core Investigators", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/investigators/core_investigators.json", "replace":""},
