@@ -5,6 +5,7 @@
     {"name":"The Dunwich Legacy", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/campaigns/dunwich_legacy.json", "replace":"2898f6"},
     {"name":"Return to The Dunwich Legacy", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/campaigns/return_to_tdl.json", "replace":"ce9130"},
     {"name":"The Path to Carcosa", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/campaigns/path_to_carcosa.json", "replace":"aca04c"},
+    {"name":"Return to The Path to Carcosa", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/campaigns/return_to_tptc.json", "replace":"e9889a"},
     {"name":"The Forgotten Age", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/campaigns/forgotten_age.json", "replace":"0bcf19"},
     {"name":"The Circle Undone", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/campaigns/circle_undone.json", "replace":"63e097"},
     {"name":"The Dream-Eaters", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/campaigns/dream_eaters.json", "replace":"a16a1a"},
