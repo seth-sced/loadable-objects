@@ -6,7 +6,8 @@
     {"name":"The Path to Carcosa", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/campaigns/path_to_carcosa.json", "replace":"aca04c"},
     {"name":"The Forgotten Age", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/campaigns/forgotten_age.json", "replace":"0bcf19"},
     {"name":"The Circle Undone", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/campaigns/circle_undone.json", "replace":"63e097"},
-    {"name":"The Dream-Eaters", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/campaigns/dream_eaters.json", "replace":"a16a1a"}
+    {"name":"The Dream-Eaters", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/campaigns/dream_eaters.json", "replace":"a16a1a"},
+    {"name":"The Innsmouth Conspiracy", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/campaigns/innsmouth_conspiracy.json", "replace":"465aab"}
   ],
   "scenarios" : [
     {"name":"Carnevale of Horrors", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/scenarios/carnevale_of_horrors.json"}
