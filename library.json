@@ -9,6 +9,7 @@
     {"name":"The Forgotten Age", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/campaigns/forgotten_age.json", "replace":"0bcf19"},
     {"name":"Return to The Forgotten Age", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/campaigns/return_to_tfa.json", "replace":"479ff3"},
     {"name":"The Circle Undone", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/campaigns/circle_undone.json", "replace":"63e097"},
+    {"name":"Return to The Circle Undone", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/campaigns/return_to_tcu.json", "replace":"757324"},
     {"name":"The Dream-Eaters", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/campaigns/dream_eaters.json", "replace":"a16a1a"},
     {"name":"The Innsmouth Conspiracy", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/campaigns/innsmouth_conspiracy.json", "replace":"465aab"}
   ],
