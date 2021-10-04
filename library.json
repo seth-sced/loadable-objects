@@ -3,7 +3,8 @@
     {"name":"The Night of the Zealot", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/campaigns/night_of_the_zealot.json", "replace":"64a613"},
     {"name":"Return to the Night of the Zealot", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/campaigns/return_to_notz.json", "replace":""},
     {"name":"The Dunwich Legacy", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/campaigns/dunwich_legacy.json", "replace":"2898f6"},
-    {"name":"The Path to Carcosa", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/campaigns/path_to_carcosa.json", "replace":"aca04c"}
+    {"name":"The Path to Carcosa", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/campaigns/path_to_carcosa.json", "replace":"aca04c"},
+    {"name":"The Forgotten Age", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/campaigns/forgotten_age.json", "replace":"0bcf19"}
   ],
   "scenarios" : [
     {"name":"Carnevale of Horrors", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/scenarios/carnevale_of_horrors.json"}
