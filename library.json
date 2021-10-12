@@ -14,7 +14,7 @@
     {"name":"The Innsmouth Conspiracy", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/campaigns/innsmouth_conspiracy.json", "replace":"465aab"}
   ],
   "scenarios" : [
-    {"name":"Carnevale of Horrors", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/scenarios/carnevale_of_horrors.json", "replace":"baa795"}
+    {"name":"Carnevale of Horrors", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/scenarios/carnevale_of_horrors.json", "replace":"baa795"},
     {"name":"Fan Scenario: Against the Wendigo", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/fancreations/scenario_wendigo.json"},
     {"name":"Fan Scenario: Blood Spilled in Salem", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/fancreations/scenario_salem.json"},
     {"name":"Fan Scenario: Bridge of Sighs", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/fancreations/scenario_bridge_of_sighs.json"},
