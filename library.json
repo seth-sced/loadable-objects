@@ -15,13 +15,45 @@
   ],
   "scenarios" : [
     {"name":"Carnevale of Horrors", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/scenarios/carnevale_of_horrors.json", "replace":"baa795"}
+    {"name":"Fan Scenario: Against the Wendigo", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/fancreations/scenario_wendigo.json"},
+    {"name":"Fan Scenario: Blood Spilled in Salem", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/fancreations/scenario_salem.json"},
+    {"name":"Fan Scenario: Bridge of Sighs", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/fancreations/scenario_bridge_of_sighs.json"},
+    {"name":"Fan Scenario: Carnevale of Spiders", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/fancreations/scenario_carnevale_of_spiders.json"},
+    {"name":"Fan Scenario: Consternation on the Constellation", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/fancreations/scenario_consternation_on_the_constellation.json"},
+    {"name":"Fan Scenario: The Collector", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/fancreations/scenario_the_collector.json"},
+    {"name":"Fan Scenario: The Colour out of Space", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/fancreations/scenario_color_out_of_space.json"},
+    {"name":"Fan Scenario: The Curse of Amulotep", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/fancreations/scenario_the_curse_of_amulotep.json"},
+    {"name":"Fan Scenario: Darkness Falls", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/fancreations/scenario_darkness_falls.json"},
+    {"name":"Fan Scenario: Delta Green Convergence", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/fancreations/scenario_delta_green.json"},
+    {"name":"Fan Scenario: Don't Starve", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/fancreations/scenario_dont_starve.json"},
+    {"name":"Fan Scenario: The Festival", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/fancreations/scenario_the_festival.json"},
+    {"name":"Fan Scenario: Fortune or Folly - Parallel Rex Murphy Set", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/fancreations/scenario_fortune_or_folly.json"},
+    {"name":"Fan Scenario: The Grand Oak Hotel", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/fancreations/scenario_grand_oak_hotel.json"},
+    {"name":"Fan Scenario: Happy's Funhouse", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/fancreations/scenario_happys_funhouse.json"},
+    {"name":"Fan Scenario: In Blackest Pits", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/fancreations/scenario_in_blackest_pits.json"},
+    {"name":"Fan Scenario: Jenny's Choice", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/fancreations/scenario_jennys_choice.json"},
+    {"name":"Fan Scenario: Knightfall", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/fancreations/scenario_knightfall.json"},
+    {"name":"Fan Scenario: Last Call at Roxie's", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/fancreations/scenario_last_call_at_roxies.json"},
+    {"name":"Fan Scenario: The Legend of Sleepy Hollow", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/fancreations/scenario_sleepy_hollow.json"},
+    {"name":"Fan Scenario: Masks of Nyarlathotep – New York", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/fancreations/scenario_masks_of_nyarlathotep.json"},
+    {"name":"Fan Scenario: Miskatonic Mouse", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/fancreations/scenario_miskatonic_mouse.json"},
+    {"name":"Fan Scenario: The Nameless City", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/fancreations/scenario_the_nameless_city.json"},
+    {"name":"Fan Scenario: The Nephew Calls", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/fancreations/scenario_the_nephew_calls.json"},
+    {"name":"Fan Scenario: The Pensher Wyrm", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/fancreations/scenario_the_pensher_wyrm.json"},
+    {"name":"Fan Scenario: The Red Room", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/fancreations/scenario_the_red_room.json"},
+    {"name":"Fan Scenario: The Stolen Baillius", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/fancreations/scenario_stolen_bacillus.json"},
+    {"name":"Fan Scenario: Stranger Things", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/fancreations/scenario_stranger_things.json"},
+    {"name":"Fan Scenario: The Svalbard Event", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/fancreations/scenario_the_svalbard_event.json"},
+    {"name":"Fan Scenario: The Symphony of Erich Zann", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/fancreations/scenario_symphony_of_erich_zann.json"},
+    {"name":"Fan Scenario: The Thing in the Woods", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/fancreations/scenario_the_thing_in_the_woods.json"}
   ],
   "investigators": [
     {"name":"Core Investigators", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/investigators/core_investigators.json", "replace":""},
     {"name":"Fan Creation: Cartoon Funtime Investigators", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/fancreations/investigators_cartoon_funtime.json", "replace":""}
   ],
   "extras" : [
-    {"name":"Encounter Sets", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/extras/encounter_sets.json", "replace":"fcfa7f"}
-    
+    {"name":"Encounter Sets", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/extras/encounter_sets.json", "replace":"fcfa7f"},
+    {"name":"Tarot Deck", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/extras/tarot_deck.json"},
+    {"name":"Secret Objectives & Ultimatums", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/extras/objectives_ultimatums.json"}
   ]
 }
