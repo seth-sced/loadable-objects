@@ -24,7 +24,8 @@
     {"name":"Challenge Scenario: All or Nothing", "url":"scenarios/challenge_all_or_nothing.json", "replace":"72ab92"},
     {"name":"Challenge Scenario: Bad Blood", "url":"scenarios/challenge_bad_blood.json", "replace":"451eaa"},
     {"name":"Challenge Scenario: By the Book", "url":"scenarios/challenge_by_the_book.json", "replace":"cc7eb3"},
-    {"name":"Challenge Scenario: Read or Die", "url":"scenarios/challenge_read_or_die.json", "replace":"9e73fa"}
+    {"name":"Challenge Scenario: Read or Die", "url":"scenarios/challenge_read_or_die.json", "replace":"9e73fa"},
+    {"name":"Barkham Horror: The Meddling of Meowlathotep", "url":"scenarios/meddling_of_meowlathotep.json"}
   ],
   "investigators": [
     {"name":"Core Investigators", "url":"investigators/core_investigators.json", "replace":"2585f4"},
