@@ -40,8 +40,7 @@
   ],
   "extras" : [
     {"name":"Encounter Sets", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/extras/encounter_sets.json", "replace":"fcfa7f"},
-    {"name":"Tarot Deck", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/extras/tarot_deck.json"},
-    {"name":"Secret Objectives & Ultimatums", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/extras/objectives_ultimatums.json"}
+    {"name":"Tarot Deck", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/extras/tarot_deck.json"}
   ],
   "community" : [
     {"name":"Fan Investigators: Artifact Expansion", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/fancreations/investigators_artifact.json"},
@@ -60,7 +59,7 @@
     {"name":"Fan Investigators: Strange Aeons", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/fancreations/investigators_strange_aeons.json"},
     {"name":"Fan Investigators: Touhou Project", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/fancreations/investigators_touhou_project.json"},
     {"name":"Fan Investigators: Weird West", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/fancreations/investigators_weird_west.json"},
-	{"name":"Fan Scenario: Against the Wendigo", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/fancreations/scenario_wendigo.json"},
+    {"name":"Fan Scenario: Against the Wendigo", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/fancreations/scenario_wendigo.json"},
     {"name":"Fan Scenario: Blood Spilled in Salem", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/fancreations/scenario_salem.json"},
     {"name":"Fan Scenario: Bridge of Sighs", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/fancreations/scenario_bridge_of_sighs.json"},
     {"name":"Fan Scenario: Carnevale of Spiders", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/fancreations/scenario_carnevale_of_spiders.json"},
@@ -91,7 +90,7 @@
     {"name":"Fan Scenario: The Svalbard Event", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/fancreations/scenario_the_svalbard_event.json"},
     {"name":"Fan Scenario: The Symphony of Erich Zann", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/fancreations/scenario_symphony_of_erich_zann.json"},
     {"name":"Fan Scenario: The Thing in the Woods", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/fancreations/scenario_the_thing_in_the_woods.json"},
-	{"name":"Fan Campaign: Alice in Wonderland", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/fancreations/campaign_alice_in_wonderland.json"},
+    {"name":"Fan Campaign: Alice in Wonderland", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/fancreations/campaign_alice_in_wonderland.json"},
     {"name":"Fan Campaign: The Approaching Storm", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/fancreations/campaign_approaching_storm.json"},
     {"name":"Fan Campaign: Call of the Plaguebearer", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/fancreations/campaign_call_of_the_plaguebearer.json"},
     {"name":"Fan Campaign: The Crown of Egil", "url":"https://raw.githubusercontent.com/seth-sced/loadable-objects/main/fancreations/campaign_crown_of_egil.json"},
