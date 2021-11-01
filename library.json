@@ -60,7 +60,7 @@
     {"name":"Fan Investigators: Pokemon: Eldritch Edition", "url":"fancreations/investigators_pokemon_eldritch_edition.json", "replace":"1fb7ce"},
     {"name":"Fan Investigators: Replacements", "url":"fancreations/investigators_replacements.json", "replace":"b06fd9"},
     {"name":"Fan Investigators: Strange Aeons", "url":"fancreations/investigators_strange_aeons.json", "replace":"d78bd2"},
-    {"name":"Fan Investigators: Touhou Project", "url":"fancreations/investigators_touhou_project.json"},
+    {"name":"Fan Investigators: Touhou Project", "url":"fancreations/investigators_touhou_project.json", "replace":"c5c294"},
     {"name":"Fan Investigators: Weird West", "url":"fancreations/investigators_weird_west.json", "replace":"58ddca"},
     {"name":"Fan Campaign: Alice in Wonderland", "url":"fancreations/campaign_alice_in_wonderland.json", "replace":"39916d"},
     {"name":"Fan Campaign: The Approaching Storm", "url":"fancreations/campaign_approaching_storm.json", "replace":"ab6b9a"},
