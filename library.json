@@ -22,6 +22,7 @@
     {"name":"The Labyrinths of Lunacy", "url":"scenarios/labyrinths_of_lunacy.json", "replace":"4c173f"},
     {"name":"Murder at the Excelsior Hotel", "url":"scenarios/murder_at_the_excelsior_hotel.json", "replace":"01d780"},
     {"name":"War of the Outer Gods", "url":"scenarios/war_of_the_outer_gods.json", "replace":"fc7674"},
+    {"name":"Machinations through Time", "url":"scenarios/machinations_through_time.json", "replace":"3c4f3c"},
     {"name":"Challenge Scenario: All or Nothing", "url":"scenarios/challenge_all_or_nothing.json", "replace":"72ab92"},
     {"name":"Challenge Scenario: Bad Blood", "url":"scenarios/challenge_bad_blood.json", "replace":"451eaa"},
     {"name":"Challenge Scenario: By the Book", "url":"scenarios/challenge_by_the_book.json", "replace":"cc7eb3"},
