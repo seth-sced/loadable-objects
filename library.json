@@ -20,13 +20,14 @@
     {"name":"The Curse of the Rougarou", "url":"scenarios/curse_of_the_rougarou.json", "replace":"db7039"},
     {"name":"The Guardians of the Abyss", "url":"scenarios/guardians_of_the_abyss.json", "replace":"ee987d"},
     {"name":"The Labyrinths of Lunacy", "url":"scenarios/labyrinths_of_lunacy.json", "replace":"4c173f"},
+    {"name":"Machinations through Time", "url":"scenarios/machinations_through_time.json", "replace":"3c4f3c"},
     {"name":"Murder at the Excelsior Hotel", "url":"scenarios/murder_at_the_excelsior_hotel.json", "replace":"01d780"},
     {"name":"War of the Outer Gods", "url":"scenarios/war_of_the_outer_gods.json", "replace":"fc7674"},
-    {"name":"Machinations through Time", "url":"scenarios/machinations_through_time.json", "replace":"3c4f3c"},
     {"name":"Challenge Scenario: All or Nothing", "url":"scenarios/challenge_all_or_nothing.json", "replace":"72ab92"},
     {"name":"Challenge Scenario: Bad Blood", "url":"scenarios/challenge_bad_blood.json", "replace":"451eaa"},
     {"name":"Challenge Scenario: By the Book", "url":"scenarios/challenge_by_the_book.json", "replace":"cc7eb3"},
     {"name":"Challenge Scenario: Read or Die", "url":"scenarios/challenge_read_or_die.json", "replace":"9e73fa"},
+    {"name":"Challenge Scenario: Red Tide Rising", "url":"scenarios/challenge_red_tide_rising.json", "replace":"5302f2"},
     {"name":"Barkham Horror: The Meddling of Meowlathotep", "url":"scenarios/meddling_of_meowlathotep.json"}
   ],
   "investigators": [
