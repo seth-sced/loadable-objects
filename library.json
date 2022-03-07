@@ -102,6 +102,7 @@
     {"name":"Fan Scenario: Darkness Falls", "url":"fancreations/scenario_darkness_falls.json", "replace":"c6a612"},
     {"name":"Fan Scenario: Delta Green Convergence", "url":"fancreations/scenario_delta_green.json", "replace":"ac164e"},
     {"name":"Fan Scenario: Don't Starve", "url":"fancreations/scenario_dont_starve.json", "replace":"ffc7ef"},
+    {"name":"Fan Scenario: The Fall of the House of Usher", "url":"fancreations/scenario_house_of_usher.json", "replace":"b46db2"},
     {"name":"Fan Scenario: The Festival", "url":"fancreations/scenario_the_festival.json", "replace":"29d22a"},
     {"name":"Fan Scenario: Fortune or Folly - Parallel Rex Murphy Set", "url":"fancreations/scenario_fortune_or_folly.json", "replace":"7fa06f"},
     {"name":"Fan Scenario: The Grand Oak Hotel", "url":"fancreations/scenario_grand_oak_hotel.json", "replace":"5ccf55"},
