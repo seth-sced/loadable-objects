@@ -62,6 +62,7 @@
     {"name":"Fan Investigators: Maximillion Pegasus", "url":"fancreations/investigators_maximillion_pegasus.json", "replace":"1fb7ce"},
     {"name":"Fan Investigators: Pokemon: Eldritch Edition", "url":"fancreations/investigators_pokemon_eldritch_edition.json", "replace":"1fb7ce"},
     {"name":"Fan Investigators: Replacements", "url":"fancreations/investigators_replacements.json", "replace":"b06fd9"},
+    {"name":"Fan Investigators: The Shadows of Arkham", "url":"fancreations/investigators_shadows_of_arkham.json", "replace":"f8017b"},
     {"name":"Fan Investigators: Strange Aeons", "url":"fancreations/investigators_strange_aeons.json", "replace":"d78bd2"},
     {"name":"Fan Investigators: Touhou Project", "url":"fancreations/investigators_touhou_project.json", "replace":"c5c294"},
     {"name":"Fan Investigators: Weird West", "url":"fancreations/investigators_weird_west.json", "replace":"58ddca"},
