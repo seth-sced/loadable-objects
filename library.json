@@ -96,6 +96,7 @@
     {"name":"Fan Campaign: Strange Aeons", "url":"fancreations/campaign_strange_aeons.json", "replace":"2abdd6"},
     {"name":"Fan Campaign: The War of the Worlds", "url":"fancreations/campaign_war_of_the_world.json", "replace":"19d469"},
     {"name":"Fan Campaign: Winter Winds", "url":"fancreations/campaign_winter_winds.json", "replace":"754057"},
+    {"name":"Fan Scenario: Arkham Incidents", "url":"fancreations/scenario_incidents.json", "replace":"f1bfa2"},
     {"name":"Fan Scenario: Against the Wendigo", "url":"fancreations/scenario_wendigo.json", "replace":"4d5fa0"},
     {"name":"Fan Scenario: Blood Spilled in Salem", "url":"fancreations/scenario_salem.json", "replace":"4237da"},
     {"name":"Fan Scenario: Bridge of Sighs", "url":"fancreations/scenario_bridge_of_sighs.json", "replace":"578e97"},
