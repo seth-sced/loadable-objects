@@ -131,6 +131,7 @@
     {"name":"Fan Scenario: Stranger Things", "url":"fancreations/scenario_stranger_things.json", "replace":"408301"},
     {"name":"Fan Scenario: The Svalbard Event", "url":"fancreations/scenario_the_svalbard_event.json", "replace":"7bc42b"},
     {"name":"Fan Scenario: The Symphony of Erich Zann", "url":"fancreations/scenario_symphony_of_erich_zann.json", "replace":"b7c6be"},
-    {"name":"Fan Scenario: The Thing in the Woods", "url":"fancreations/scenario_the_thing_in_the_woods.json", "replace":"c90c49"}
+    {"name":"Fan Scenario: The Thing in the Woods", "url":"fancreations/scenario_the_thing_in_the_woods.json", "replace":"c90c49"},
+    {"name":"Fan Scenario: The Undying", "url":"fancreations/scenario_the_undying.json", "replace":"965030"}
   ]
 }
