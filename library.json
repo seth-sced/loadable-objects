@@ -105,6 +105,7 @@
     {"name":"Fan Scenario: The Collector", "url":"fancreations/scenario_the_collector.json", "replace":"9810eb"},
     {"name":"Fan Scenario: The Colour out of Space", "url":"fancreations/scenario_color_out_of_space.json", "replace":"5b81ff"},
     {"name":"Fan Scenario: Consternation on the Constellation", "url":"fancreations/scenario_consternation_on_the_constellation.json", "replace":"0ec730"},
+    {"name":"Fan Scenario: Cosmic Pantheon", "url":"fancreations/scenario_cosmic_pantheon.json", "replace":"ec74df"},
     {"name":"Fan Scenario: The Curse of Amulotep", "url":"fancreations/scenario_the_curse_of_amulotep.json", "replace":"0d7a8d"},
     {"name":"Fan Scenario: Darkness Falls", "url":"fancreations/scenario_darkness_falls.json", "replace":"c6a612"},
     {"name":"Fan Scenario: Delta Green Convergence", "url":"fancreations/scenario_delta_green.json", "replace":"ac164e"},
