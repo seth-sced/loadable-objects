@@ -50,6 +50,7 @@
   ],
   "community" : [
     {"name":"Fan Investigators: Artifact Expansion", "url":"fancreations/investigators_artifact.json", "replace":"2f8332"},
+    {"name":"Fan Investigators: Battle Goes On", "url":"fancreations/investigators_battle_goes_on.json", "replace":"dd90c5"},
     {"name":"Fan Investigators: Cartoon Funtime Investigators", "url":"fancreations/investigators_cartoon_funtime.json"},
     {"name":"Fan Investigators: Delta Green Convergence", "url":"fancreations/investigators_delta_green_convergence.json", "replace":"84be1d"},
     {"name":"Fan Investigators: Don't Starve", "url":"fancreations/investigators_dont_starve.json", "replace":"2e69d0"},
