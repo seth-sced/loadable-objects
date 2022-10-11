@@ -38,7 +38,8 @@
     {"name":"The Circle Undone", "url":"investigators/circle_undone.json", "replace":"0dcbe8"},
     {"name":"The Dream-Eaters", "url":"investigators/dream-eaters.json", "replace":"a34f34"},
     {"name":"The Innsmouth Conspiracy", "url":"investigators/innsmouth_conspiracy.json", "replace":"10bd18"},
-    {"name":"The Edge of the Earth", "url":"investigators/edge_of_the_earth.json", "replace":"a32f43"},
+    {"name":"Edge of the Earth", "url":"investigators/edge_of_the_earth.json", "replace":"a32f43"},
+    {"name":"The Scarlet Keys", "url":"investigators/scarlet_keys.json", "replace":"a4fd1b"},
     {"name":"Starter Decks", "url":"investigators/starter_decks.json", "replace":"35fb9c"},
     {"name":"Promo Investigators", "url":"investigators/promos.json", "replace":"5fe24e"}
   ],
