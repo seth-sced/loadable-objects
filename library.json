@@ -47,8 +47,7 @@
     {"name":"Player Cards by Cycle", "url":"extras/cards_by_cycle.json"},
     {"name":"Encounter Sets", "url":"extras/encounter_sets.json", "replace":"fcfa7f"},
     {"name":"Tarot Deck", "url":"extras/tarot_deck.json"},
-    {"name":"Secret Objectives ﹠ Ultimatums", "url":"extras/objectives_ultimatums.json"},
-    {"name":"Update Notes", "url":"extras/update_notes.json"}
+    {"name":"Secret Objectives ﹠ Ultimatums", "url":"extras/objectives_ultimatums.json"}
   ],
   "community" : [
     {"name":"Fan Investigators: Artifact Expansion", "url":"fancreations/investigators_artifact.json", "replace":"2f8332"},
