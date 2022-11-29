@@ -8,6 +8,7 @@
     {"name":"The Dream-Eaters", "url":"campaigns/dream_eaters.json", "replace":"a16a1a"},
     {"name":"The Innsmouth Conspiracy", "url":"campaigns/innsmouth_conspiracy.json", "replace":"465aab"},
     {"name":"Edge of the Earth", "url":"campaigns/edge_of_the_earth.json", "replace":"895eaa"},
+    {"name":"The Scarlet Keys", "url":"campaigns/the_scarlet_keys.json", "replace":"300fcc"},
     {"name":"Return to The Night of the Zealot", "url":"campaigns/return_to_notz.json", "replace":"56270d"},
     {"name":"Return to The Dunwich Legacy", "url":"campaigns/return_to_tdl.json", "replace":"ce9130"},
     {"name":"Return to The Path to Carcosa", "url":"campaigns/return_to_tptc.json", "replace":"e9889a"},
