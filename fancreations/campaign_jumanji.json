@@ -2,12 +2,12 @@
   "GUID": "b46db2",
   "Name": "Custom_Model_Bag",
   "Transform": {
-    "posX": 8.411914,
-    "posY": 1.27590537,
-    "posZ": 89.2127,
-    "rotX": 0.04390492,
-    "rotY": 270.005829,
-    "rotZ": 0.0168768317,
+    "posX": 19.4184685,
+    "posY": 1.28500116,
+    "posZ": 49.02866,
+    "rotX": -9.26773538E-08,
+    "rotY": 270.0,
+    "rotZ": 6.149677E-08,
     "scaleX": 2.21,
     "scaleY": 0.46,
     "scaleZ": 2.42
